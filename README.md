@@ -30,7 +30,7 @@
     Enter cipher text to decrypt: IGKYGX IOVNKXY GXK TUZ YKIAXK
     Enter number of times to iterate(max = 26): 26
 
-#### The results are as follows. This follows bruteforcing method, this method iterates through all the the keys ( 1 - 26 )
+#### The results are as follows. This follows bruteforcing method, this method iterates through all the the keys (1 - 26)
     The cracked word with key: 1 is: HFJXFW HNUMJWX FWJ STY XJHZWJ 
 
     The cracked word with key: 2 is: GEIWEV GMTLIVW EVI RSX WIGYVI 
