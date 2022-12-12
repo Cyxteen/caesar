@@ -1,5 +1,5 @@
 # caesar-cipher
- caesar cipher encoder and decoder
+#### caesar cipher used to encode and decode data. written with python3
 
 ## Usage
 #### First clone the repository
