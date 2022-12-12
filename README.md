@@ -81,4 +81,6 @@
 
     The cracked word with key: 25 is: JHLZHY JPWOLYZ HYL UVA ZLJBYL        
 
-    The cracked word with key: 26 is: IGKYGX IOVNKXY GXK TUZ YKIAXK   
+    The cracked word with key: 26 is: IGKYGX IOVNKXY GXK TUZ YKIAXK
+
+#### From the above example we can see that we bruteforced the key. and found the key is 6
