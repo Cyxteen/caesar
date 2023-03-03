@@ -75,15 +75,15 @@ def main():
         print('CAESAR DECRYPTOR. ENTER ANY STRING OF CHARACTERS TO DECRYPT')
         print("-----------------------------------------------proudly Tz🖤")
         word_encrypted = input("Enter cipher text to decrypt: ")
-        iterable = int(input("Enter number of times to iterate(max = 26): "))
+        iterable = int(input("Enter number of times to iterate(max = 25): "))
         if word_encrypted == "":
             print("word to decrypt cannot be empty!")
             main()
         elif iterable == "":
             print("number to iterate cannot be empty cannot be empty!")
             main()
-        elif iterable > 26:
-            print("iterable cannot be greater than 26")
+        elif iterable > 25:
+            print("iterable cannot be greater than 25")
             main()
         else:
             # b - number of steps to iterate if step is 1
